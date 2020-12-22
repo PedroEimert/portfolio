@@ -34,4 +34,8 @@ Veja alguns dos projetos que publiquei:
 ---
 
 
-
+## Certificações:
+Certificação Uipath:
+<p align="center">
+<img src="CertificadoUipath.png">
+</p>
