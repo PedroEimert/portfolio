@@ -41,17 +41,6 @@ Certificação Uipath:
 </p>
 
 ## Diplomas Uipath:
-Arquiteto de Solução:
-<p align="center">
-<img src="Pedro Yuri Eimert - UiPath - Solution Architech.pdf">
-</p>
-
-Analista de Negócios:
-<p align="center">
-<img src="Pedro Yuri Eimert - Business Analist - UiPath.pdf">
-</p>
-
-Gerente de Implementação:
-<p align="center">
-<img src="Pedro Yuri Eimert - Uipath - RPA Implementation Manager Foundation.pdf">
-</p>
+Arquiteto de Solução: Arquivo Pedro Yuri Eimert - UiPath - Solution Architech.pdf
+Analista de Negócios: Arquivo Pedro Yuri Eimert - Business Analist - UiPath.pdf
+Gerente de Implementação: Arquivo Pedro Yuri Eimert - Uipath - RPA Implementation Manager Foundation.pdf
