@@ -17,7 +17,7 @@ Atualmente em projeto de desenvolvimento de um curso gratuito no Youtube.
 **Links úteis:**
 * [Página Profissional](http://pedroeimert.netlify.com)
 * [LinkedIn](https://www.linkedin.com/in/pedroeimert)
-* [Youtube](https://www.youtube.com/channel/UCD9ygw0Sfhkbn2_duK-mOeg) <div>Ícones feitos por <a href="https://www.flaticon.co
+* [Youtube](https://www.youtube.com/channel/UCD9ygw0Sfhkbn2_duK-mOeg)
 
 
 ## Projetos:
