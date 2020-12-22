@@ -1,37 +1,35 @@
-# portfolio
-Desenvolvedor certificado pela Uipath desde março de 2020, atualmente trabalhando como desenvolvedor na consultoria Smarthis Co, e graduando em Ciências Matemáticas e da Terra.
 
-[![author](https://img.shields.io/badge/papai-pedroeimert-green.svg)](https://www.linkedin.com/in/carlosfab) [![](https://img.shields.io/badge/Uipath-20.10-blue.svg)](https://www.uipath.com) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![Bem-vindo](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/PedroEimert)
+[![author](https://img.shields.io/badge/Autor-PedroEimert-green.svg)](https://www.linkedin.com/in/pedroeimert) [![](https://img.shields.io/badge/Uipath-20.10-blue.svg)](https://www.uipath.com) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![Bem-vindo](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/PedroEimert)
 
 <p align="center">
   <img src="banner.png" >
 </p>
 
 # Pedro Y. Eimert
-<sub>*Desenvolvedor Certificado - Uipath</sub>
+<sub>Desenvolvedor Certificado - Uipath</sub>
 
-Desenvolvedor certificado pela Uipath desde março de 2020, atualmente trabalhando como desenvolvedor na consultoria Smarthis Co, e graduando em Ciências Matemáticas e da Terra.
+Desde março de 2020 trabalhando como desenvolvedor na consultoria Smarthis Co, e graduando em Ciências Matemáticas e da Terra desde agosto de 2017 na Universidade federal do Rio de Janeiro, Uma instituiação com alto nível pedagógico, classificada como uma das mais prestigiadas escolas de engenharia na América Larina, COPPE.
 
-My credentials include a Master's in Space Science and Technology from the Aeronautics Institute of Technology (ITA), an institution of higher education and advanced research rated as one of the top and most prestigious engineering schools in Brazil, and a MBA in Project and Process Management from the University of Air Force (UNIFA).
+<img src="uipathbanner.png">
 
-**Background in:** Python, Machine Learning, Space Operations and Mathematical Optimisation.
+**Especialização em:** Uipath, Automation Hub, Operações em sistemas ERP, monitoramento de sites e sistemas entre outros tipos de automações.
 
 **Links:**
-* [Blog](http://sigmoidal.ai)
-* [LinkedIn](https://www.linkedin.com/in/carlosfab)
-* [Medium](https://www.medium.com)
+* [Landing Page](http://pedroeimert.netlify.com)
+* [LinkedIn](https://www.linkedin.com/in/pedroeimert)
+* [Youtube](https://www.youtube.com/channel/UCD9ygw0Sfhkbn2_duK-mOeg)
 
 
 ## Projetos:
-Veja os tutoriais publicados do Sigmoidal:
+Veja os projetos publicados por mim:
 
-* **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
-* **Como Implementar Regressão Linear com Python:** https://bit.ly/2Li5pzY
-* **Data Science: Investigando o naufrágio do Titanic:** https://bit.ly/2Ubr5SH
-* **Como Tratar Dados Ausentes com Pandas:** https://bit.ly/31KWSMN
-* **XGBoost: aprenda este algoritmo de Machine Learning em Python:** https://bit.ly/2UbRhws
-* **Como criar uma Wordcloud em Python:** https://bit.ly/2OxsphM
-* **Como lidar com dados desbalanceados:** https://bit.ly/2ZlaNsV
+* **Atualizador de Movimentações Processuais no TJ RJ:** https://github.com/PedroEimert/AtualizadorDeMovimentacoesProcessuais
+* **Monitor de Cotações em Auto Avaliar:** https://github.com/PedroEimert/MonitorDeCotacoes
+* **Extrator de Extratos Diários na Stone Pagamentos:** https://github.com/PedroEimert/ExtracaoDeMovimentacaoBancariaStone
+* **Extrator de Extratos Diários no Mercado Pago:** https://github.com/PedroEimert/ExtracaoDiariaMercadoPago
+* **Gerenciador de dados de impulsionamento do Facebook:** https://github.com/PedroEimert/TratadorDeDadosFacebook
+* **Automação de pesquisa em DataRio:** https://github.com/PedroEimert/ChegadaDeTuristasAoRJ
+* **Coleta e plotagem de dados em Power Bi e DataRio:** https://github.com/PedroEimert/IndiceDeQualidadeDoAR
 
 ---
 
