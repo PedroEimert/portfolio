@@ -1,16 +1,16 @@
 # portfolio
 Desenvolvedor certificado pela Uipath desde março de 2020, atualmente trabalhando como desenvolvedor na consultoria Smarthis Co, e graduando em Ciências Matemáticas e da Terra.
 
-[![author](https://img.shields.io/badge/author-carlosfab-red.svg)](https://www.linkedin.com/in/carlosfab) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/carlosfab/data_science/issues)
+[![author](https://img.shields.io/badge/papai-pedroeimert-green.svg)](https://www.linkedin.com/in/carlosfab) [![](https://img.shields.io/badge/Uipath-20.10-blue.svg)](https://www.uipath.com) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![Bem-vindo](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/PedroEimert)
 
 <p align="center">
   <img src="banner.png" >
 </p>
 
-# Carlos Melo
-<sub>*Lead Data Scientist* at Space Operations Center</sub>
+# Pedro Y. Eimert
+<sub>*Desenvolvedor Certificado - Uipath</sub>
 
-As a experienced Data Scientist and Air Force pilot I combine analytical skills, ability to work in team environments, and attention to details. Having spend the last years applying Machine Learning to Brazilian Air Force real problems, I developed a critical thinking and problem-solving skills.
+Desenvolvedor certificado pela Uipath desde março de 2020, atualmente trabalhando como desenvolvedor na consultoria Smarthis Co, e graduando em Ciências Matemáticas e da Terra.
 
 My credentials include a Master's in Space Science and Technology from the Aeronautics Institute of Technology (ITA), an institution of higher education and advanced research rated as one of the top and most prestigious engineering schools in Brazil, and a MBA in Project and Process Management from the University of Air Force (UNIFA).
 
